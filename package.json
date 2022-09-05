@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "description": "Developer tools for Inkdrop",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/dev-tools",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:inkdropapp/inkdrop-dev-tools.git"
+  },
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"
