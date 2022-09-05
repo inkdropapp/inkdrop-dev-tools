@@ -1,0 +1,13 @@
+{
+  "name": "dev-tools",
+  "main": "./lib/dev-tools",
+  "version": "0.0.0",
+  "description": "Developer tools for Inkdrop",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/dev-tools",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
