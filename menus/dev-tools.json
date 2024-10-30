@@ -1,17 +1,31 @@
 {
   "context-menu": {
     ".sidebar-menu .sidebar-menu-book-list-item, .sidebar-workspace-menu  .sidebar-menu-book-list-item": [
-      { "label": "Copy Notebook ID", "command": "dev-tools:copy-notebook-id" },
-      { "type": "separator" }
+      {
+        "label": "Copy Notebook ID",
+        "command": "dev-tools:copy-notebook-id"
+      },
+      {
+        "type": "separator"
+      }
     ],
     ".sidebar-menu .sidebar-menu-tag-list-item": [
-      { "label": "Copy Tag ID", "command": "dev-tools:copy-tag-id" }
+      {
+        "label": "Copy Tag ID",
+        "command": "dev-tools:copy-tag-id"
+      }
     ],
     ".note-tags-bar-item .ui.label, .tag-list .ui.label": [
-      { "label": "Copy Tag ID", "command": "dev-tools:copy-tag-id" }
+      {
+        "label": "Copy Tag ID",
+        "command": "dev-tools:copy-tag-id"
+      }
     ],
     ".note-list-bar-item .note-list-item-view": [
-      { "label": "Copy Note ID", "command": "dev-tools:copy-note-id" }
+      {
+        "label": "Copy Note ID",
+        "command": "dev-tools:copy-note-id"
+      }
     ]
   },
   "menu": [
@@ -22,8 +36,12 @@
           "label": "dev-tools",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "dev-tools:toggle"
+              "label": "Start hot reloading themes",
+              "command": "dev-tools:watch-themes"
+            },
+            {
+              "label": "Stop hot reloading themes",
+              "command": "dev-tools:unwatch-themes"
             }
           ]
         }

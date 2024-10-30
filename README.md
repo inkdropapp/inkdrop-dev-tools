@@ -27,3 +27,10 @@ Copying a tag ID from the editor context menu:
 
 ![How to copy tag id](./docs/copy-tag-id_2.png)
 
+## Hot reload themes
+
+It allows you to watch any file changes in the current active themes (UI, syntax, and preview) and reload them automatically.
+
+To start, select the menu **Plugins → dev-tools → Start hot reloading themes**.
+To stop, select the menu **Plugins → dev-tools → Stop hot reloading themes**.
+
