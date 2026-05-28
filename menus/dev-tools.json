@@ -1,6 +1,6 @@
 {
   "context-menu": {
-    ".sidebar-menu .sidebar-menu-book-list-item, .sidebar-workspace-menu  .sidebar-menu-book-list-item": [
+    ".sidebar-menu .sidebar-menu-book-list-item, .sidebar-workspace-menu  .sidebar-menu-book-list-item, .sidebar-workspace-menu .sidebar-workspace-title-name": [
       {
         "label": "Copy Notebook ID",
         "command": "dev-tools:copy-notebook-id"
