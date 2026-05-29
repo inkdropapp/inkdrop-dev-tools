@@ -26,6 +26,18 @@
         "label": "Copy Note ID",
         "command": "dev-tools:copy-note-id"
       }
+    ],
+    ".query-context-mode-book .note-list-header-title-bar": [
+      {
+        "label": "Copy Notebook ID",
+        "command": "dev-tools:copy-notebook-id"
+      }
+    ],
+    ".query-context-mode-tag .note-list-header-title-bar": [
+      {
+        "label": "Copy Tag ID",
+        "command": "dev-tools:copy-tag-id"
+      }
     ]
   },
   "menu": [
