@@ -10,21 +10,8 @@ ipm install dev-tools
 
 ## Copy data ID
 
-Copying a notebook ID from the sidebar context menu:
-
-![How to copy notebook id](./docs/copy-notebook-id.png)
-
-Copying a note ID from the sidebar context menu:
-
-![How to copy note id](./docs/copy-note-id.png)
-
-Copying a tag ID from the sidebar context menu:
-
-![How to copy tag id](./docs/copy-tag-id.png)
-
-Copying a tag ID from the editor context menu:
-
-![How to copy tag id](./docs/copy-tag-id_2.png)
+Moved into the app itself — **Copy Note ID**, **Copy Notebook ID**, and **Copy Tag ID** are now
+built-in context menu items, so this plugin no longer provides them.
 
 ## Hot reload themes
 
