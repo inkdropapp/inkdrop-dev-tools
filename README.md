@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has moved to [inkdropapp/plugins](https://github.com/inkdropapp/plugins): [`packages/dev-tools`](https://github.com/inkdropapp/plugins/tree/main/packages/dev-tools). It is archived and read-only; please open issues and pull requests there.
+
 # Developer tools for Inkdrop
 
 Adds some useful features for hacking Inkdrop.
